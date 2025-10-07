@@ -12,11 +12,12 @@ I'm a Business Analytics Full-Time Graduate Student at USC based in Southern Cal
 
 ---
 
-Certainly. Here is the complete Markdown code for the tech stack section.
+## 📫 Connect with Me
 
-You can copy this entire block and paste it directly into your README.md file on GitHub. It will render the headings, categories, and clickable badges exactly as shown in the previous example.
-
-Markdown
+<p align="center">
+  <a href="https://www.linkedin.com/in/lekathlyn/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:[lekathlyn05@gmail.com]"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
 
 ## 🚀 My Tech Stack
 
@@ -60,13 +61,4 @@ Here's a snapshot of the tools and technologies I use.
   <a href="https://www.adobe.com/creativecloud.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Adobe_Suite-FF0000?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white" alt="Adobe Suite"></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
   <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress"></a>
-</p>
-
----
-
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lekathlyn/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:[lekathlyn05@gmail.com]"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
