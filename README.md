@@ -1,6 +1,7 @@
 # Hi, I'm Kat 👋
 
 👨‍💻 About Me
+-- 
 I'm a Business Analytics Full-Time Graduate Student at USC based in Southern California. I'm passionate about AI, Product/Data Anlaytics, and Data-Driven Storyteling.
 
 - 🔭 I’m currently working on Sales Forecasting for CPG Products.
