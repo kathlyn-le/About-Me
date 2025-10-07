@@ -7,7 +7,6 @@ I'm a Business Analytics Full-Time Graduate Student at USC based in Southern Cal
 - 🔭 I’m currently working on Sales Forecasting for CPG Products.
 - 🌱 I’m currently learning Machine Learning and Python.
 - 💬 Ask me about Pickleball or Valorant
-- 📫 How to reach me: lekathlyn05@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am from the Bay Area!
 
